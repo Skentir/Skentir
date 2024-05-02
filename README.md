@@ -1,4 +1,4 @@
-### Hi there! I'm Kirsten 👋
+### How'd you end up here? Hi, I'm Kirsten! 👋
 I'm an IT Manager and Data Engineer based in sunny tropical Manila, Philippines.
 
 I've worked with various types of projects and have used multiple programming languages. Ever since I was young, I fell in love programming and built so many things from fullstack web applications, custom programming languages, to machine learning models. A little bit of everything! 
